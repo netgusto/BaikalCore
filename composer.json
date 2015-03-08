@@ -1,0 +1,18 @@
+{
+    "name": "baikal/core",
+    "description": "Baïkal Core Services Metapackage",
+    "license": "GNU-GPL",
+    "authors": [
+        {
+            "name": "Jérôme Schneider - Net Gusto",
+            "email": "contact@netgusto.com"
+        }
+    ],
+    "require": {
+        "baikal/kernel-bundle": "dev-master",
+        "baikal/dav-services-bundle": "dev-master",
+        "baikal/wellknown-bundle": "dev-master",
+        "baikal/model-bundle": "dev-master",
+        "baikal/rest-bundle": "dev-master"
+    }
+}
