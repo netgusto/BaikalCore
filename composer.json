@@ -9,6 +9,9 @@
         }
     ],
     "require": {
+        "php": ">=5.3.3",
+        "ext-mbstring": "*",
+
         "baikal/kernel-bundle": "dev-master",
         "baikal/dav-services-bundle": "dev-master",
         "baikal/wellknown-bundle": "dev-master",
