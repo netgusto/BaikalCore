@@ -13,10 +13,10 @@
         "php": ">=5.3.3",
         "ext-mbstring": "*",
 
-        "baikal/kernel-bundle": "2.0.0-alpha1",
-        "baikal/dav-services-bundle": "2.0.0-alpha1",
-        "baikal/wellknown-bundle": "2.0.0-alpha1",
-        "baikal/model-bundle": "2.0.0-alpha1",
-        "baikal/rest-bundle": "2.0.0-alpha1"
+        "baikal/kernel-bundle": "dev-master as 2.0.0-alpha1",
+        "baikal/dav-services-bundle": "dev-master as 2.0.0-alpha1",
+        "baikal/wellknown-bundle": "dev-master as 2.0.0-alpha1",
+        "baikal/model-bundle": "dev-master as 2.0.0-alpha1",
+        "baikal/rest-bundle": "dev-master as 2.0.0-alpha1"
     }
 }
